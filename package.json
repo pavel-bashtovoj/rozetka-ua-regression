@@ -1,0 +1,20 @@
+{
+  "name": "rozetka-ua-regression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavel-bashtovoj/rozetka-ua-regression.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavel-bashtovoj/rozetka-ua-regression/issues"
+  },
+  "homepage": "https://github.com/pavel-bashtovoj/rozetka-ua-regression#readme"
+}
