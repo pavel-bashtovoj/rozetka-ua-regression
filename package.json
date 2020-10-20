@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/pavel-bashtovoj/rozetka-ua-regression/issues"
   },
-  "homepage": "https://github.com/pavel-bashtovoj/rozetka-ua-regression#readme"
+  "homepage": "https://github.com/pavel-bashtovoj/rozetka-ua-regression#readme",
+  "devDependencies": {
+    "@wdio/cli": "^6.6.7",
+    "@wdio/jasmine-framework": "^6.6.6",
+    "@wdio/local-runner": "^6.6.7",
+    "@wdio/spec-reporter": "^6.6.6",
+    "@wdio/sync": "^6.6.7",
+    "chromedriver": "^86.0.0",
+    "wdio-chromedriver-service": "^6.0.4"
+  }
 }
